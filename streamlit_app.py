@@ -1,6 +1,7 @@
 import pandas
 import streamlit
-import snowflake.connector
+import snowflake.connector as sf
+from sf import connector
 streamlit.title('My parents New Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')

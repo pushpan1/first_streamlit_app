@@ -1,3 +1,6 @@
 #requirements text 
-snowflake-connector-python
+altair
+pandas
+streamlit
+snowflake
 #-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.10/tested_requirements/requirements_39.reqs

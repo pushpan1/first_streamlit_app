@@ -1,5 +1,2 @@
 #requirements text 
-asn1crypto-1.5.1 
-cffi-1.15.1 
-charset-normalizer-2.0.12 
-snowflake-connector-python==2.7.3 
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.10/tested_requirements/requirements_39.reqs
